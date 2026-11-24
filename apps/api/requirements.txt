@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+alembic
+pydantic
+pydantic-settings
+httpx
+python-dotenv
+psycopg-binary
+beautifulsoup4
+tenacity
+rapidfuzz
+python-dateutil

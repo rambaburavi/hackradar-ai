@@ -1,0 +1,28 @@
+{
+  "name": "hackradar-web",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@headlessui/react": "2.2.10",
+    "@heroicons/react": "2.2.0",
+    "@tanstack/react-query": "5.108.4",
+    "next": "16.4.6",
+    "postcss": "8.5.33",
+    "react": "19.3.1",
+    "react-dom": "19.3.1",
+    "react-hook-form": "7.92.0",
+    "tailwindcss": "3.3.2",
+    "zod": "4.6.7"
+  },
+  "devDependencies": {
+    "@types/node": "^24.19.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "typescript": "^7.0.2"
+  }
+}
